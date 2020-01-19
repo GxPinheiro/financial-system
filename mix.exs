@@ -1,9 +1,9 @@
-defmodule FinantialSystem.MixProject do
+defmodule FinancialSystem.MixProject do
   use Mix.Project
 
   def project do
     [
-      app: :finantial_system,
+      app: :financial_system,
       version: "0.1.0",
       elixir: "~> 1.9",
       start_permanent: Mix.env() == :prod,

@@ -1,8 +1,8 @@
-defmodule FinantialSystemTest do
+defmodule FinancialSystemTest do
   use ExUnit.Case
-  doctest FinantialSystem
+  doctest FinancialSystem
 
   test "greets the world" do
-    assert FinantialSystem.hello() == :world
+    assert FinancialSystem.hello() == :world
   end
 end

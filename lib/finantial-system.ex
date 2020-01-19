@@ -1,6 +1,6 @@
-defmodule FinantialSystem do
+defmodule FinancialSystem do
   @moduledoc """
-  Documentation for FinantialSystem.
+  Documentation for FinancialSystem.
   """
 
   @doc """
@@ -8,7 +8,7 @@ defmodule FinantialSystem do
 
   ## Examples
 
-      iex> FinantialSystem.hello()
+      iex> FinancialSystem.hello()
       :world
 
   """
